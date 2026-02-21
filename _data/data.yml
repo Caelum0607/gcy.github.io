@@ -10,21 +10,21 @@ sidebar:
   # Profile information
   name: Chuyao Gong
   tagline: Student
-  avatar: 
+  avatar: assets/avatar.jpg
   # Sidebar links
   email: cg424@student.le.ac.uk
   phone: +86 183 4555 0639
   timezone: China/Liaoning # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  linkedin: 
+  xing: 
+  github: Caelum0607
   telegram: # add your nickname without '@' sign
-  gitlab:
+  gitlab: 
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: 
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,27 +36,26 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Chinese
       level: Native
 
-    - idiom: French
+    - idiom: English
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Rock & Roll
       link:
 
 
-    - item: Snowboarding
+    - item: Baseball
       link:
 
 
-    - item: Cooking
+    - item: art films 
       link:
 
 
@@ -71,29 +70,9 @@ career-profile:
     Second paragraph if required.
 education:
   title: Education
-  info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: BSc Mathematics
+    university: University of Leicester & Dalian University of Technology
+    time: 2025 - 
 
 experiences:
   title: Experiences
